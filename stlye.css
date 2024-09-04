@@ -1,0 +1,15 @@
+body{
+    background: black;
+color: white;
+header{
+     border: solid 1px yellow ;
+}
+
+}
+
+section{
+     background-color: #f0ec06;
+     padding-bottom: 40px;
+     padding-top: 40px;
+     display: flex;
+}
